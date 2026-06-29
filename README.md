@@ -207,7 +207,7 @@ Aspiring Data Analyst | Power BI | SQL | Python | Excel
 
 **Recommendation:** *Kickstarter Investment Intelligence Dashboard: Crowdfunding Success Analysis* is the recommended title because it is ATS-friendly, business-oriented, and clearly communicates the project's objective to recruiters.
 
-## Screenshots / Demos**
+ **Screenshots / Demos**
 
 ![Dashboard Preview].(https://github.com/Arpitabagdawat/Kickstarter-Success-Analysis/blob/main/Dashboard.jpeg)).
 
