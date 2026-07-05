@@ -209,5 +209,5 @@ Aspiring Data Analyst | Power BI | SQL | Python | Excel
 
  **Screenshots / Demos**
 
-![Dashboard Preview].(https://github.com/Arpitabagdawat/Kickstarter-Success-Analysis/blob/main/Dashboard.jpeg)).
+![Dashboard Preview].(https://github.com/Arpitabagdawat/Kickstarter-Success-Analysis/blob/main/Dashboard1.png)).
 
