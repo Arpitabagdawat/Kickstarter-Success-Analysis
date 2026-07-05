@@ -246,11 +246,11 @@ The dashboard successfully identifies the key drivers of Kickstarter project suc
 
 ## 👩‍💻 Author
 
-**Your Name**
+**Arpita Bagdawat**
 
 ### Connect With Me
-- LinkedIn: Your LinkedIn Profile
-- GitHub: Your GitHub Profile
+- LinkedIn: https://www.linkedin.com/in/arpitabagdawat-dataanalyst/
+- GitHub: https://github.com/Arpitabagdawat
 
 ---
 
