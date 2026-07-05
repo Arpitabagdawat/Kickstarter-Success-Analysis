@@ -238,19 +238,6 @@ Dataset contains Kickstarter project information including:
 
 ---
 
-# 📸 Dashboard Preview
-
-### Main Dashboard
-(Add Screenshot Here)
-
-### Insights Section
-(Add Screenshot Here)
-
-### Country Distribution Analysis
-(Add Screenshot Here)
-
----
-
 # 🚀 Project Outcome
 
 The dashboard successfully identifies the key drivers of Kickstarter project success and provides actionable recommendations that can help project creators improve funding performance and audience engagement.
