@@ -1,8 +1,3 @@
--- ==========================================
--- Kickstarter Success Analysis
--- Database Setup
--- ==========================================
-
 -- Create Table
 
 CREATE TABLE kickstarter_projects (
@@ -19,7 +14,6 @@ CREATE TABLE kickstarter_projects (
     state TEXT
 );
 
--- Verify Data Import
 
 SELECT COUNT(*) FROM kickstarter_projects;
 
@@ -32,6 +26,6 @@ SELECT COUNT(*)
 FROM information_schema.columns
 WHERE table_name='kickstarter_projects';
 
--- Clear Table (if required)
+-- Clear Table 
 
 TRUNCATE TABLE kickstarter_projects;
