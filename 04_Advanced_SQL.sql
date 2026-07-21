@@ -1,7 +1,3 @@
--- ==========================================
--- Advanced SQL Analysis
--- ==========================================
-
 -- Goal Range using CASE WHEN
 
 SELECT
