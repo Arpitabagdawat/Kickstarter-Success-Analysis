@@ -1,7 +1,3 @@
--- ==========================================
--- Business Analysis
--- ==========================================
-
 -- Average Goal
 
 SELECT ROUND(AVG(goal),2) AS average_goal
