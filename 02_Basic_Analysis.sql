@@ -1,9 +1,3 @@
--- ==========================================
--- Basic SQL Analysis
--- ==========================================
-
--- Total Projects
-
 SELECT COUNT(*) AS total_projects
 FROM kickstarter_projects;
 
